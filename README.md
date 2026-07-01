@@ -228,7 +228,7 @@ Through this project, I gained practical experience in:
 
 ## Author
 
-**A. Akhil**
+**G.B. Prakalya**
 
 Computer Science Engineering (AI & ML)
 
